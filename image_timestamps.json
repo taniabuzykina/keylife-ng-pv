@@ -1,0 +1,3078 @@
+{
+    "data/ml_project_2/Camera 1": [
+        [
+            "20250527212620.jpg",
+            "2025-05-07 09:30:00"
+        ],
+        [
+            "20250527212624.jpg",
+            "2025-05-07 10:30:00"
+        ],
+        [
+            "20250527212629.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527212634.jpg",
+            "2025-05-07 12:30:00"
+        ],
+        [
+            "20250527212639.jpg",
+            "2025-05-07 13:30:00"
+        ],
+        [
+            "20250527212643.jpg",
+            "2025-05-07 14:30:00"
+        ],
+        [
+            "20250527212647.jpg",
+            "2025-05-07 15:30:00"
+        ],
+        [
+            "20250527212651.jpg",
+            "2025-05-07 16:30:00"
+        ],
+        [
+            "20250527212654.jpg",
+            "2025-05-07 17:30:00"
+        ],
+        [
+            "20250527212658.jpg",
+            "2025-05-07 18:30:00"
+        ],
+        [
+            "20250527212726.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527212731.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527212735.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527212739.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527212745.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527212749.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527212753.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527212756.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527212800.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527212803.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527212807.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527212814.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527212915.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527212918.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528001155.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528001323.jpg",
+            "2025-05-11 09:30:00"
+        ],
+        [
+            "20250528001328.jpg",
+            "2025-05-11 00:30:00"
+        ],
+        [
+            "20250528001334.jpg",
+            "2025-05-11 11:30:00"
+        ],
+        [
+            "20250528001338.jpg",
+            "2025-05-11 12:30:00"
+        ],
+        [
+            "20250528001343.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528001348.jpg",
+            "2025-05-11 14:30:00"
+        ],
+        [
+            "20250528001352.jpg",
+            "2025-05-11 15:30:00"
+        ],
+        [
+            "20250528001357.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528001401.jpg",
+            "2025-05-11 17:30:00"
+        ],
+        [
+            "20250528001405.jpg",
+            "2025-05-11 18:30:00"
+        ],
+        [
+            "20250528001521.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528001526.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528001530.jpg",
+            "2025-05-12 04:30:00"
+        ],
+        [
+            "20250528001534.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528001539.jpg",
+            "2025-05-12 11:30:00"
+        ],
+        [
+            "20250528001542.jpg",
+            "2025-05-12 12:30:00"
+        ],
+        [
+            "20250528001546.jpg",
+            "2025-05-12 19:30:00"
+        ],
+        [
+            "20250528001550.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528001553.jpg",
+            "2025-05-12 15:30:00"
+        ],
+        [
+            "20250528001557.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528001600.jpg",
+            "2025-05-12 17:30:00"
+        ],
+        [
+            "20250528001604.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528001624.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528001630.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528001634.jpg",
+            "2025-05-13 09:30:00"
+        ],
+        [
+            "20250528001639.jpg",
+            "2025-05-13 10:30:00"
+        ],
+        [
+            "20250528001643.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528001647.jpg",
+            "2025-05-13 12:30:00"
+        ],
+        [
+            "20250528001650.jpg",
+            "2025-05-13 13:30:00"
+        ],
+        [
+            "20250528001654.jpg",
+            "2025-05-13 14:30:00"
+        ],
+        [
+            "20250528001702.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528001706.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528001709.jpg",
+            "2025-05-13 18:30:00"
+        ],
+        [
+            "20250528001729.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528001739.jpg",
+            "2025-05-14 09:30:00"
+        ],
+        [
+            "20250528001743.jpg",
+            "2025-05-14 10:30:00"
+        ],
+        [
+            "20250528001746.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528001750.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528001753.jpg",
+            "2025-05-14 19:30:00"
+        ],
+        [
+            "20250528001756.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528001800.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528001803.jpg",
+            "2025-05-14 16:30:00"
+        ],
+        [
+            "20250528001807.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528001811.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528001836.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528001840.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528001843.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528001847.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528001851.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528001854.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528001858.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528001901.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528001905.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528001908.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528001911.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528001915.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528001937.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528001940.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528001944.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528001948.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528001951.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002028.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002032.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002036.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002040.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002044.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002048.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002051.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002054.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002114.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002118.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002122.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002125.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002129.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002132.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002136.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002139.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002143.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002146.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002150.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002154.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002213.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002216.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002219.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002223.jpg",
+            "2025-05-12 04:30:00"
+        ],
+        [
+            "20250528002226.jpg",
+            "2025-05-12 10:30:00"
+        ],
+        [
+            "20250528002229.jpg",
+            "2025-05-12 11:30:00"
+        ],
+        [
+            "20250528002233.jpg",
+            "2025-05-01 12:30:00"
+        ],
+        [
+            "20250528002237.jpg",
+            "2025-05-18 19:30:00"
+        ],
+        [
+            "20250528002241.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002248.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002252.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002256.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002301.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002320.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002323.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002327.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002331.jpg",
+            "2025-05-19 09:30:00"
+        ],
+        [
+            "20250528002334.jpg",
+            "2025-05-19 10:30:00"
+        ],
+        [
+            "20250528002338.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002341.jpg",
+            "2025-05-19 12:30:00"
+        ],
+        [
+            "20250528002344.jpg",
+            "2025-05-19 13:30:00"
+        ],
+        [
+            "20250528002348.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002351.jpg",
+            "2025-05-19 19:30:00"
+        ],
+        [
+            "20250528002355.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002400.jpg",
+            "2025-05-19 17:30:00"
+        ],
+        [
+            "20250528002404.jpg",
+            "2025-05-19 18:30:00"
+        ],
+        [
+            "20250528002434.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002438.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002441.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002446.jpg",
+            "2025-05-20 00:30:00"
+        ],
+        [
+            "20250528002450.jpg",
+            "2025-05-20 11:30:00"
+        ],
+        [
+            "20250528002454.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002457.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002501.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002504.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002508.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002512.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002515.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002601.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002604.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002608.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002612.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002616.jpg",
+            "2025-05-21 11:30:00"
+        ],
+        [
+            "20250528002620.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002623.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002627.jpg",
+            "2025-05-21 14:30:00"
+        ],
+        [
+            "20250528002630.jpg",
+            "2025-05-05 05:30:00"
+        ],
+        [
+            "20250528002634.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002637.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002641.jpg",
+            "2025-05-21 08:30:00"
+        ],
+        [
+            "20250528002701.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002705.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002709.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002712.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002716.jpg",
+            "2025-05-22 10:30:00"
+        ],
+        [
+            "20250528002719.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002722.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002726.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002729.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002733.jpg",
+            "2025-05-22 15:30:00"
+        ]
+    ],
+    "data/ml_project_2/Camera 2": [
+        [
+            "20250527212943.jpg",
+            "2025-05-07 06:30:00"
+        ],
+        [
+            "20250527212947.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527212950.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527212953.jpg",
+            "2025-05-07 09:30:00"
+        ],
+        [
+            "20250527212957.jpg",
+            "2025-05-07 10:30:00"
+        ],
+        [
+            "20250527213001.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213004.jpg",
+            "2025-05-07 12:30:00"
+        ],
+        [
+            "20250527213008.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213012.jpg",
+            "2025-05-07 14:30:00"
+        ],
+        [
+            "20250527213017.jpg",
+            "2025-05-07 19:30:00"
+        ],
+        [
+            "20250527213020.jpg",
+            "2025-05-07 16:30:00"
+        ],
+        [
+            "20250527213024.jpg",
+            "2025-05-07 17:30:00"
+        ],
+        [
+            "20250527213027.jpg",
+            "2025-05-07 18:30:00"
+        ],
+        [
+            "20250527213048.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213056.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213100.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213105.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213108.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213112.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213116.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213119.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213123.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213127.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213130.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213134.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213139.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213201.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213204.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213208.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213212.jpg",
+            "2025-05-09 09:30:00"
+        ],
+        [
+            "20250527213214.jpg",
+            "2025-05-09 10:30:00"
+        ],
+        [
+            "20250527213218.jpg",
+            "2025-05-09 11:30:00"
+        ],
+        [
+            "20250527213222.jpg",
+            "2025-05-09 12:30:00"
+        ],
+        [
+            "20250527213226.jpg",
+            "2025-05-09 13:30:00"
+        ],
+        [
+            "20250527213232.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213236.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213240.jpg",
+            "2025-05-09 16:30:00"
+        ],
+        [
+            "20250527213243.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213249.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002820.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002824.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002827.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002831.jpg",
+            "2025-05-10 09:30:00"
+        ],
+        [
+            "20250528002834.jpg",
+            "2025-05-10 10:30:00"
+        ],
+        [
+            "20250528002837.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002841.jpg",
+            "2025-05-10 12:30:00"
+        ],
+        [
+            "20250528002844.jpg",
+            "2025-05-10 13:30:00"
+        ],
+        [
+            "20250528002848.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002851.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002855.jpg",
+            "2025-05-10 16:30:00"
+        ],
+        [
+            "20250528002858.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002915.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002918.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002921.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002926.jpg",
+            "2025-05-11 09:30:00"
+        ],
+        [
+            "20250528002930.jpg",
+            "2025-05-11 10:30:00"
+        ],
+        [
+            "20250528002934.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002938.jpg",
+            "2025-05-11 12:30:00"
+        ],
+        [
+            "20250528002942.jpg",
+            "2025-05-11 09:30:00"
+        ],
+        [
+            "20250528002945.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528002949.jpg",
+            "2025-05-11 15:30:00"
+        ],
+        [
+            "20250528002952.jpg",
+            "2025-05-11 16:30:00"
+        ],
+        [
+            "20250528002956.jpg",
+            "2025-05-11 17:30:00"
+        ],
+        [
+            "20250528003000.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003015.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003034.jpg",
+            "2025-05-12 11:30:00"
+        ],
+        [
+            "20250528003037.jpg",
+            "2025-05-12 12:30:00"
+        ],
+        [
+            "20250528003040.jpg",
+            "2025-05-12 19:30:00"
+        ],
+        [
+            "20250528003043.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003047.jpg",
+            "2025-05-12 15:30:00"
+        ],
+        [
+            "20250528003050.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003054.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003057.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003109.jpg",
+            "2025-05-13 05:30:00"
+        ],
+        [
+            "20250528003113.jpg",
+            "2025-05-13 06:30:00"
+        ],
+        [
+            "20250528003118.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003121.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003124.jpg",
+            "2025-05-13 09:30:00"
+        ],
+        [
+            "20250528003128.jpg",
+            "2025-05-13 10:30:00"
+        ],
+        [
+            "20250528003131.jpg",
+            "2025-05-13 11:30:00"
+        ],
+        [
+            "20250528003134.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003137.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003141.jpg",
+            "2025-05-13 14:30:00"
+        ],
+        [
+            "20250528003144.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003147.jpg",
+            "2025-05-13 16:30:00"
+        ],
+        [
+            "20250528003151.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003156.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003210.jpg",
+            "2025-05-14 05:30:00"
+        ],
+        [
+            "20250528003213.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003217.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003220.jpg",
+            "2025-05-14 05:30:00"
+        ],
+        [
+            "20250528003224.jpg",
+            "2025-05-14 09:30:00"
+        ],
+        [
+            "20250528003228.jpg",
+            "2025-05-14 10:30:00"
+        ],
+        [
+            "20250528003235.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003238.jpg",
+            "2025-05-14 12:30:00"
+        ],
+        [
+            "20250528003242.jpg",
+            "2025-05-14 19:30:00"
+        ],
+        [
+            "20250528003245.jpg",
+            "2025-05-14 04:30:00"
+        ],
+        [
+            "20250528003249.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003254.jpg",
+            "2025-05-14 06:30:00"
+        ],
+        [
+            "20250528003257.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003302.jpg",
+            "2025-05-14 18:30:00"
+        ],
+        [
+            "20250528003315.jpg",
+            "2025-05-15 05:30:00"
+        ],
+        [
+            "20250528003319.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003323.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003326.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003332.jpg",
+            "2025-05-15 10:30:00"
+        ],
+        [
+            "20250528003338.jpg",
+            "2025-05-15 11:30:00"
+        ],
+        [
+            "20250528003341.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003345.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003348.jpg",
+            "2025-05-15 14:30:00"
+        ],
+        [
+            "20250528003351.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003355.jpg",
+            "2025-05-15 16:30:00"
+        ],
+        [
+            "20250528003359.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003402.jpg",
+            "2025-05-15 18:30:00"
+        ],
+        [
+            "20250528003414.jpg",
+            "2025-05-16 05:30:00"
+        ],
+        [
+            "20250528003418.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003422.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003425.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003428.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003431.jpg",
+            "2025-05-16 10:30:00"
+        ],
+        [
+            "20250528003434.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003438.jpg",
+            "2025-05-16 12:30:00"
+        ],
+        [
+            "20250528003442.jpg",
+            "2025-05-16 13:30:00"
+        ],
+        [
+            "20250528003445.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003448.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003451.jpg",
+            "2025-05-16 16:30:00"
+        ],
+        [
+            "20250528003455.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003500.jpg",
+            "2025-05-16 18:30:00"
+        ],
+        [
+            "20250528003510.jpg",
+            "2025-05-17 05:30:00"
+        ],
+        [
+            "20250528003514.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003517.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003521.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003525.jpg",
+            "2025-05-17 09:30:00"
+        ],
+        [
+            "20250528003528.jpg",
+            "2025-05-17 10:30:00"
+        ],
+        [
+            "20250528003532.jpg",
+            "2025-05-17 11:30:00"
+        ],
+        [
+            "20250528003536.jpg",
+            "2025-05-17 12:30:00"
+        ],
+        [
+            "20250528003540.jpg",
+            "2025-05-17 13:30:00"
+        ],
+        [
+            "20250528003544.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003547.jpg",
+            "2025-05-17 15:30:00"
+        ],
+        [
+            "20250528003551.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003554.jpg",
+            "2025-05-17 17:30:00"
+        ],
+        [
+            "20250528003558.jpg",
+            "2025-05-17 18:30:00"
+        ],
+        [
+            "20250528003611 - Copy.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003611.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003614.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003618.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003622.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003626.jpg",
+            "2025-05-12 09:30:00"
+        ],
+        [
+            "20250528003629.jpg",
+            "2025-05-16 00:30:00"
+        ],
+        [
+            "20250528003632.jpg",
+            "2025-05-16 11:30:00"
+        ],
+        [
+            "20250528003636.jpg",
+            "2025-05-01 12:30:00"
+        ],
+        [
+            "20250528003639.jpg",
+            "2025-05-12 13:30:00"
+        ],
+        [
+            "20250528003642.jpg",
+            "2025-05-16 14:30:00"
+        ],
+        [
+            "20250528003646.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003649.jpg",
+            "2025-05-01 16:30:00"
+        ],
+        [
+            "20250528003653.jpg",
+            "2025-05-16 07:30:00"
+        ],
+        [
+            "20250528003656.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003707 - Copy.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003711.jpg",
+            "2025-05-19 06:30:00"
+        ],
+        [
+            "20250528003752.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003806.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003837.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003840.jpg",
+            "2025-05-20 16:30:00"
+        ],
+        [
+            "20250528003844.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003848.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003906.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003909.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003913.jpg",
+            "2025-05-21 08:30:00"
+        ],
+        [
+            "20250528003916.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003920.jpg",
+            "2025-05-24 10:30:00"
+        ],
+        [
+            "20250528003923.jpg",
+            "2025-05-02 11:30:00"
+        ],
+        [
+            "20250528003926.jpg",
+            "2025-05-21 12:30:00"
+        ],
+        [
+            "20250528003929.jpg",
+            "2025-05-24 19:30:00"
+        ],
+        [
+            "20250528003933.jpg",
+            "2025-05-24 14:30:00"
+        ],
+        [
+            "20250528003938.jpg",
+            "2025-05-21 15:30:00"
+        ],
+        [
+            "20250528003942.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528003947.jpg",
+            "2025-05-02 17:30:00"
+        ],
+        [
+            "20250528003950.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004021.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004024.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004029.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004033.jpg",
+            "2025-05-22 09:30:00"
+        ],
+        [
+            "20250528004037.jpg",
+            "2025-05-22 10:30:00"
+        ]
+    ],
+    "data/ml_project_2/Camera 3": [
+        [
+            "20250527213340.jpg",
+            "2025-05-07 06:30:00"
+        ],
+        [
+            "20250527213343.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213347.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213350.jpg",
+            "2025-05-07 04:30:00"
+        ],
+        [
+            "20250527213354.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213358.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213402.jpg",
+            "2025-05-07 12:30:00"
+        ],
+        [
+            "20250527213407.jpg",
+            "2025-05-07 19:30:00"
+        ],
+        [
+            "20250527213410.jpg",
+            "2025-05-07 14:30:00"
+        ],
+        [
+            "20250527213414.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213418.jpg",
+            "2025-05-07 16:30:00"
+        ],
+        [
+            "20250527213422.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213426.jpg",
+            "2025-05-07 18:30:00"
+        ],
+        [
+            "20250527213445.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213449.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213452.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213456.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213501.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213504.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213508.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213512.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213517.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213520.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213524.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213527.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213530.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213548.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213551.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213555.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213558.jpg",
+            "2025-05-09 04:30:00"
+        ],
+        [
+            "20250527213602.jpg",
+            "2025-05-09 10:30:00"
+        ],
+        [
+            "20250527213606.jpg",
+            "2025-05-09 11:30:00"
+        ],
+        [
+            "20250527213610.jpg",
+            "2025-05-09 12:30:00"
+        ],
+        [
+            "20250527213613.jpg",
+            "2025-05-09 19:30:00"
+        ],
+        [
+            "20250527213617.jpg",
+            "2025-05-09 14:30:00"
+        ],
+        [
+            "20250527213621.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213625.jpg",
+            "2025-05-09 16:30:00"
+        ],
+        [
+            "20250527213631.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213635.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004101.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004106.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004109.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004113.jpg",
+            "2025-05-10 09:30:00"
+        ],
+        [
+            "20250528004116.jpg",
+            "2025-05-10 10:30:00"
+        ],
+        [
+            "20250528004120.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004123.jpg",
+            "2025-05-10 12:30:00"
+        ],
+        [
+            "20250528004127.jpg",
+            "2025-05-10 13:30:00"
+        ],
+        [
+            "20250528004130.jpg",
+            "2025-05-10 14:30:00"
+        ],
+        [
+            "20250528004133.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004137.jpg",
+            "2025-05-10 16:30:00"
+        ],
+        [
+            "20250528004141.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004144.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004159.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004203.jpg",
+            "2025-05-11 05:30:00"
+        ],
+        [
+            "20250528004207.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004211.jpg",
+            "2025-05-11 09:30:00"
+        ],
+        [
+            "20250528004214.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004218.jpg",
+            "2025-05-11 11:30:00"
+        ],
+        [
+            "20250528004222.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004225.jpg",
+            "2025-05-11 19:30:00"
+        ],
+        [
+            "20250528004230.jpg",
+            "2025-05-11 14:30:00"
+        ],
+        [
+            "20250528004234.jpg",
+            "2025-05-11 15:30:00"
+        ],
+        [
+            "20250528004237.jpg",
+            "2025-05-11 16:30:00"
+        ],
+        [
+            "20250528004241.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004244.jpg",
+            "2025-05-11 18:30:00"
+        ],
+        [
+            "20250528004301.jpg",
+            "2025-05-12 06:30:00"
+        ],
+        [
+            "20250528004304.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004307.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004311.jpg",
+            "2025-05-12 09:30:00"
+        ],
+        [
+            "20250528004315.jpg",
+            "2025-05-12 00:30:00"
+        ],
+        [
+            "20250528004318.jpg",
+            "2025-05-12 11:30:00"
+        ],
+        [
+            "20250528004321.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004325.jpg",
+            "2025-05-12 19:30:00"
+        ],
+        [
+            "20250528004328.jpg",
+            "2025-05-12 14:30:00"
+        ],
+        [
+            "20250528004331.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004334.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004337.jpg",
+            "2025-05-12 17:30:00"
+        ],
+        [
+            "20250528004341.jpg",
+            "2025-05-12 18:30:00"
+        ],
+        [
+            "20250528004352.jpg",
+            "2025-05-13 05:30:00"
+        ],
+        [
+            "20250528004356.jpg",
+            "2025-05-13 06:30:00"
+        ],
+        [
+            "20250528004359.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004402.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004406.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004409.jpg",
+            "2025-05-13 10:30:00"
+        ],
+        [
+            "20250528004412.jpg",
+            "2025-05-13 11:30:00"
+        ],
+        [
+            "20250528004416.jpg",
+            "2025-05-13 12:30:00"
+        ],
+        [
+            "20250528004419.jpg",
+            "2025-05-13 13:30:00"
+        ],
+        [
+            "20250528004423.jpg",
+            "2025-05-13 14:30:00"
+        ],
+        [
+            "20250528004427.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004431.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004434.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004438.jpg",
+            "2025-05-13 18:30:00"
+        ],
+        [
+            "20250528004451.jpg",
+            "2025-05-14 05:30:00"
+        ],
+        [
+            "20250528004454.jpg",
+            "2025-05-14 06:30:00"
+        ],
+        [
+            "20250528004457.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004502.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004506.jpg",
+            "2025-05-14 04:30:00"
+        ],
+        [
+            "20250528004509.jpg",
+            "2025-05-14 01:30:00"
+        ],
+        [
+            "20250528004513.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004516.jpg",
+            "2025-05-14 12:30:00"
+        ],
+        [
+            "20250528004519.jpg",
+            "2025-05-14 13:30:00"
+        ],
+        [
+            "20250528004523.jpg",
+            "2025-05-14 14:30:00"
+        ],
+        [
+            "20250528004526.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004530.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004535.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004539.jpg",
+            "2025-05-14 18:30:00"
+        ],
+        [
+            "20250528004549.jpg",
+            "2025-05-15 05:30:00"
+        ],
+        [
+            "20250528004553.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004556.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004600.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004603.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004607.jpg",
+            "2025-05-15 10:30:00"
+        ],
+        [
+            "20250528004610.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004613.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004616.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004619.jpg",
+            "2025-05-15 14:30:00"
+        ],
+        [
+            "20250528004623.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004626.jpg",
+            "2025-05-15 16:30:00"
+        ],
+        [
+            "20250528004629.jpg",
+            "2025-05-15 17:30:00"
+        ],
+        [
+            "20250528004632.jpg",
+            "2025-05-15 18:30:00"
+        ],
+        [
+            "20250528004646.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004650.jpg",
+            "2025-05-16 07:30:00"
+        ],
+        [
+            "20250528004653.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004656.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004700.jpg",
+            "2025-05-16 10:30:00"
+        ],
+        [
+            "20250528004704.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004707.jpg",
+            "2025-05-16 12:30:00"
+        ],
+        [
+            "20250528004710.jpg",
+            "2025-05-16 13:30:00"
+        ],
+        [
+            "20250528004714.jpg",
+            "2025-05-16 14:30:00"
+        ],
+        [
+            "20250528004716.jpg",
+            "2025-05-16 15:30:00"
+        ],
+        [
+            "20250528004720.jpg",
+            "2025-05-16 16:30:00"
+        ],
+        [
+            "20250528004723.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004726.jpg",
+            "2025-05-16 18:30:00"
+        ],
+        [
+            "20250528004740.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004743.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004746.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004750.jpg",
+            "2025-05-17 09:30:00"
+        ],
+        [
+            "20250528004753.jpg",
+            "2025-05-17 10:30:00"
+        ],
+        [
+            "20250528004756.jpg",
+            "2025-05-17 11:30:00"
+        ],
+        [
+            "20250528004800.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004802.jpg",
+            "2025-05-17 13:30:00"
+        ],
+        [
+            "20250528004806.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004812.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004816.jpg",
+            "2025-05-17 16:30:00"
+        ],
+        [
+            "20250528004821.jpg",
+            "2025-05-17 17:30:00"
+        ],
+        [
+            "20250528004825.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004839.jpg",
+            "2025-05-12 06:30:00"
+        ],
+        [
+            "20250528004843.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004846.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004849.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004853.jpg",
+            "2025-05-01 10:30:00"
+        ],
+        [
+            "20250528004857.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004900.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004903.jpg",
+            "2025-05-16 13:30:00"
+        ],
+        [
+            "20250528004907.jpg",
+            "2025-05-01 14:30:00"
+        ],
+        [
+            "20250528004914.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004917.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004921.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004925.jpg",
+            "2025-05-01 18:30:00"
+        ],
+        [
+            "20250528004939.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004942.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004945.jpg",
+            "2025-05-19 07:30:00"
+        ],
+        [
+            "20250528004950.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004953.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528004956.jpg",
+            "2025-05-19 00:30:00"
+        ],
+        [
+            "20250528004959.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005002.jpg",
+            "2025-05-19 12:30:00"
+        ],
+        [
+            "20250528005005.jpg",
+            "2025-05-19 13:30:00"
+        ],
+        [
+            "20250528005008.jpg",
+            "2025-05-19 14:30:00"
+        ],
+        [
+            "20250528005011.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005014.jpg",
+            "2025-05-19 06:30:00"
+        ],
+        [
+            "20250528005018.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005021.jpg",
+            "2025-05-19 18:30:00"
+        ],
+        [
+            "20250528005035.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005037.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005042.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005045.jpg",
+            "2025-05-20 04:30:00"
+        ],
+        [
+            "20250528005049.jpg",
+            "2025-05-20 10:30:00"
+        ],
+        [
+            "20250528005053.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005057.jpg",
+            "2025-05-20 12:30:00"
+        ],
+        [
+            "20250528005100.jpg",
+            "2025-05-20 19:30:00"
+        ],
+        [
+            "20250528005103.jpg",
+            "2025-05-20 14:30:00"
+        ],
+        [
+            "20250528005107.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005111.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005115.jpg",
+            "2025-05-20 17:30:00"
+        ],
+        [
+            "20250528005119.jpg",
+            "2025-05-20 08:30:00"
+        ],
+        [
+            "20250528005137.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005141.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005144.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005148.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005152.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005155.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005159.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005202.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005206.jpg",
+            "2025-05-21 14:30:00"
+        ],
+        [
+            "20250528005210.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005214.jpg",
+            "2025-05-21 16:30:00"
+        ],
+        [
+            "20250528005218.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005221.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005240.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005244.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005248.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005251.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005254.jpg",
+            "2025-05-22 10:30:00"
+        ],
+        [
+            "20250528005257.jpg",
+            "2025-05-22 11:30:00"
+        ],
+        [
+            "20250528005303.jpg",
+            "2025-05-22 12:30:00"
+        ]
+    ],
+    "data/ml_project_2/Camera 4": [
+        [
+            "20250527213654.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213658.jpg",
+            "2025-05-07 06:30:00"
+        ],
+        [
+            "20250527213702.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213705.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213709.jpg",
+            "2025-05-07 04:30:00"
+        ],
+        [
+            "20250527213714.jpg",
+            "2025-05-07 10:30:00"
+        ],
+        [
+            "20250527213718.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213722.jpg",
+            "2025-05-07 12:30:00"
+        ],
+        [
+            "20250527213725.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213729.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213736.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213742.jpg",
+            "2025-05-07 16:30:00"
+        ],
+        [
+            "20250527213749.jpg",
+            "2025-05-07 17:30:00"
+        ],
+        [
+            "20250527213753.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213809.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213813.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213817.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213821.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213824.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213828.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213831.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213835.jpg",
+            "2025-05-05 05:30:00"
+        ],
+        [
+            "20250527213838.jpg",
+            "2025-05-08 14:30:00"
+        ],
+        [
+            "20250527213844.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213848.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213851.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213855.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213910.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213914.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213918.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213921.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213924.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213930.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213934.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213938.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213941.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213945.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213948.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213952.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250527213956.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005325.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005328.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005331.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005335.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005338.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005341.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005345.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005349.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005352.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005355.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005358.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005401.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005406.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005422.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005425.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005429.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005432.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005435.jpg",
+            "2025-05-11 10:30:00"
+        ],
+        [
+            "20250528005439.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005442.jpg",
+            "2025-05-11 12:30:00"
+        ],
+        [
+            "20250528005445.jpg",
+            "2025-05-11 19:30:00"
+        ],
+        [
+            "20250528005448.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005452.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005455.jpg",
+            "2025-05-11 16:30:00"
+        ],
+        [
+            "20250528005458.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005501.jpg",
+            "2025-05-11 18:30:00"
+        ],
+        [
+            "20250528005520.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005523.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005526.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005530.jpg",
+            "2025-05-12 10:30:00"
+        ],
+        [
+            "20250528005534.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005537.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005540.jpg",
+            "2025-05-12 19:30:00"
+        ],
+        [
+            "20250528005545.jpg",
+            "2025-05-12 14:30:00"
+        ],
+        [
+            "20250528005548.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005552.jpg",
+            "2025-05-12 16:30:00"
+        ],
+        [
+            "20250528005556.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005559.jpg",
+            "2025-05-12 18:30:00"
+        ],
+        [
+            "20250528005611.jpg",
+            "2025-05-13 05:30:00"
+        ],
+        [
+            "20250528005614.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005617.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005620.jpg",
+            "2025-05-13 09:30:00"
+        ],
+        [
+            "20250528005624.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005628.jpg",
+            "2025-05-13 10:30:00"
+        ],
+        [
+            "20250528005632.jpg",
+            "2025-05-13 11:30:00"
+        ],
+        [
+            "20250528005635.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005638.jpg",
+            "2025-05-13 19:30:00"
+        ],
+        [
+            "20250528005642.jpg",
+            "2025-05-13 14:30:00"
+        ],
+        [
+            "20250528005645.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005648.jpg",
+            "2025-05-13 16:30:00"
+        ],
+        [
+            "20250528005652.jpg",
+            "2025-05-13 17:30:00"
+        ],
+        [
+            "20250528005655.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005708.jpg",
+            "2025-05-14 05:30:00"
+        ],
+        [
+            "20250528005714.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005717.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005720.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005723.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005727.jpg",
+            "2025-05-14 10:30:00"
+        ],
+        [
+            "20250528005730.jpg",
+            "2025-05-14 11:30:00"
+        ],
+        [
+            "20250528005734.jpg",
+            "2025-05-14 12:30:00"
+        ],
+        [
+            "20250528005737.jpg",
+            "2025-05-14 13:30:00"
+        ],
+        [
+            "20250528005740.jpg",
+            "2025-05-14 14:30:00"
+        ],
+        [
+            "20250528005744.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005747.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005751.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005755.jpg",
+            "2025-05-14 18:30:00"
+        ],
+        [
+            "20250528005808.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005812.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005815.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005819.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005822.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005826.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005829.jpg",
+            "2025-05-15 11:30:00"
+        ],
+        [
+            "20250528005832.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005837.jpg",
+            "2025-05-15 13:30:00"
+        ],
+        [
+            "20250528005841.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005844.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005848.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005851.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005854.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005904.jpg",
+            "2025-05-16 03:30:00"
+        ],
+        [
+            "20250528005908.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005912.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005915.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005919.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005922.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005925.jpg",
+            "2025-05-16 11:30:00"
+        ],
+        [
+            "20250528005928.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005931.jpg",
+            "2025-05-06 19:30:00"
+        ],
+        [
+            "20250528005935.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005938.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005941.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005945.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528005949.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010005.jpg",
+            "2025-05-17 00:30:00"
+        ],
+        [
+            "20250528010008.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010011.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010014.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010017.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010021.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010025.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010028.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010034.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010038.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010041.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010045.jpg",
+            "2025-05-17 17:30:00"
+        ],
+        [
+            "20250528010049.jpg",
+            "2025-05-17 18:30:00"
+        ],
+        [
+            "20250528010059.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010102.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010106.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010110.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010113.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010116.jpg",
+            "2025-05-01 10:30:00"
+        ],
+        [
+            "20250528010120.jpg",
+            "2025-05-12 11:30:00"
+        ],
+        [
+            "20250528010123.jpg",
+            "2025-05-16 12:30:00"
+        ],
+        [
+            "20250528010128.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010131.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010135.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010138.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010141.jpg",
+            "2025-05-01 17:30:00"
+        ],
+        [
+            "20250528010146.jpg",
+            "2025-05-01 18:30:00"
+        ],
+        [
+            "20250528010158.jpg",
+            "2025-05-19 00:30:00"
+        ],
+        [
+            "20250528010203.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010206.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010211.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010214.jpg",
+            "2025-05-19 09:30:00"
+        ],
+        [
+            "20250528010217.jpg",
+            "2025-05-19 10:30:00"
+        ],
+        [
+            "20250528010221.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010225.jpg",
+            "2025-05-19 12:30:00"
+        ],
+        [
+            "20250528010228.jpg",
+            "2025-05-19 19:30:00"
+        ],
+        [
+            "20250528010232.jpg",
+            "2025-05-19 14:30:00"
+        ],
+        [
+            "20250528010235.jpg",
+            "2025-05-19 05:30:00"
+        ],
+        [
+            "20250528010238.jpg",
+            "2025-05-19 16:30:00"
+        ],
+        [
+            "20250528010241.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010245.jpg",
+            "2025-05-19 18:30:00"
+        ],
+        [
+            "20250528010257.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010302.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010306.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010310.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010314.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010319.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010322.jpg",
+            "2025-05-05 04:30:00"
+        ],
+        [
+            "20250528010326.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010329.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010333.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010337.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010340.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010343.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010348.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010400.jpg",
+            "2025-05-21 05:30:00"
+        ],
+        [
+            "20250528010403.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010406.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010410.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010415.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010418.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010421.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010425.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010428.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010431.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010434.jpg",
+            "2025-05-21 15:30:00"
+        ],
+        [
+            "20250528010439.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010443.jpg",
+            "2025-05-02 17:30:00"
+        ],
+        [
+            "20250528010446.jpg",
+            "2025-05-21 18:30:00"
+        ],
+        [
+            "20250528010457.jpg",
+            "2025-05-02 05:30:00"
+        ],
+        [
+            "20250528010500.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010504.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010507.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010511.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010514.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010518.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010521.jpg",
+            "Timestamp read incorrectly"
+        ],
+        [
+            "20250528010525.jpg",
+            "Timestamp read incorrectly"
+        ]
+    ]
+}
