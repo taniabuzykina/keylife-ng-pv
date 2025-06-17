@@ -1,0 +1,61 @@
+code sample ,planting date,harvest date ,shape (regular/Irregular),root health ,root length (cm),plant height(cm),weight (g),chlorophyll(a) (mg/g),plant dry matter (%),leaf count (no.),leaf size (cm2),disease occurrence trends,water use efficiency ,energy consumption ,growth rate ,nutrient absorption efficiency,marketable yield,flowering ,nots 
+S1A10,3/18/2025,5/4/2025,R,Good,27,33,114,,,26,108,no,,,,,,yes,Burning was observed on the upper leaflets of the plant due to their proximity to the artificial light source and its heat.
+S1A8,3/18/2025,5/11/2025,R,Good,26,34,38,,,29,101.25,no,,,,,,yes,
+S1A6,3/18/2025,5/11/2025,R,Good,25,35,60,,,53,108,no,,,,,,yes,Burning was observed on the upper leaflets of the plant due to their proximity to the artificial light source and its heat.
+S1B9,3/18/2025,5/4/2025,R,Good,,,,,,,,no,,,,,,,It was observed that the plant is dead.
+S1B7,3/18/2025,5/11/2025,R,Good,20,41,136,0.64,9.28,73,108,no,,,,,,yes,Burning was observed on the upper leaflets of the plant due to their proximity to the artificial light source and its heat.
+S1B5,3/18/2025,5/11/2025,R,Good,17,15,8,,,16,32.0625,no,,,,,,no,
+S1C10,3/18/2025,5/4/2025,R,Good,12,22.5,53,,,20,63,no,,,,,,no,small roots
+S1C8,3/18/2025,5/11/2025,R,Good,9,16,11,,,24,37.5,no,,,,,,no,small plant
+S1C6,3/18/2025,5/11/2025,R,Good,12,18,7,,,12,30.375,no,,,,,,no,small plant
+S1D9,3/18/2025,5/4/2025,R,Good,25,31.5,98,2.16,9.09,26,107.25,no,,,,,,yes,
+S1D7,3/18/2025,5/11/2025,R,Good,24,22,22,0.71,8.9,21,54,no,,,,,,yes,
+S1D5,3/18/2025,5/11/2025,R,Good,17,20,16,,,37,151.25,no,,,,,,yes,
+S1F10,3/18/2025,5/4/2025,R,Good,14,27,46,,,18,,no,,,,,,yes,wilted
+S1F8,3/18/2025,5/11/2025,R,Good,12,16,16,,,33,45,no,,,,,,no,
+S1F6,3/18/2025,5/11/2025,R,Good,16,18,12.5,,,36,58.5,no,,,,,,no,
+S2A10,3/18/2025,5/4/2025,R,Good,27,32,66,,,22,121.125,no,,,,,,yes,Burning was observed on the upper leaflets of the plant due to their proximity to the artificial light source and its heat.
+S2A8,3/18/2025,5/11/2025,R,Good,22,20,20,,,38,45.375,no,,,,,,no,
+S2A6,3/18/2025,5/11/2025,R,Good,26,36,69,,,77,96,no,,,,,,yes,Burning was observed on the upper leaflets of the plant due to their proximity to the artificial light source and its heat.
+S2B9,3/18/2025,5/4/2025,R,Good,6,10,5,,,8,18,no,,,,,,no,very small plant 
+S2B7,3/18/2025,5/11/2025,R,Good,12,24,21,,,40,33,no,,,,,,yes,
+S2B5,3/18/2025,5/11/2025,R,Good,12,17,13,,,37,41.25,no,,,,,,no,
+S2C10,3/18/2025,5/4/2025,R,Good,16,26,22,,,12,58.5,no,,,,,,no,
+S2C8,3/18/2025,5/11/2025,R,Good,23,33,72,,,76,96,no,,,,,,yes,Burning was observed on the upper leaflets of the plant due to their proximity to the artificial light source and its heat.
+S2C6,3/18/2025,5/11/2025,R,Good,31,40,113,,,82,90,no,,,,,,yes,Burning was observed on the upper leaflets of the plant due to their proximity to the artificial light source and its heat.
+S2D9,3/18/2025,5/4/2025,R,Good,31,33,88,1.94,8.39,30,114.75,no,,,,,,yes,Burning was observed on the upper leaflets of the plant due to their proximity to the artificial light source and its heat.
+S2D7,3/18/2025,5/11/2025,R,Good,23,35,77,,,78,68.25,no,,,,,,yes,Burning was observed on the upper leaflets of the plant due to their proximity to the artificial light source and its heat.
+S2D5,3/18/2025,5/11/2025,R,Good,15,17,11,,,20,28.5,no,,,,,,no,
+S2F10,3/18/2025,5/4/2025,R,Good,24,34,51,,,20,101.25,no,,,,,,yes,
+S2F8,3/18/2025,5/11/2025,R,Good,17,20,17,,,27,37.5,no,,,,,,no,Burning was observed on the upper leaflets of the plant due to their proximity to the artificial light source and its heat.
+S2F6,3/18/2025,5/11/2025,R,Good,25,40,71,,,55,96,no,,,,,,yes,
+S3A10,3/18/2025,5/4/2025,R,Good,13,18,35,,,24,54,no,,,,,,yes,
+S3A8,3/18/2025,5/11/2025,R,Good,20,36,39,,,39,58.5,no,,,,,,yes,
+S3A6,3/18/2025,5/11/2025,R,Good,5,8,1.7,,,12,93.75,no,,,,,,no,
+S3B9,3/18/2025,5/4/2025,R,Good,20,30,65,1.94,8.36,26,108,no,,,,,,yes,
+S3B7,3/18/2025,5/12/2025,R,Good,20,24,26,,,39,45,no,,,,,,no,
+S3B5,3/18/2025,5/12/2025,R,Good,12,25,32,,,70,37.5,no,,,,,,yes,
+S3C10,3/18/2025,5/4/2025,R,Good,22,40,135,,,55,102,no,,,,,,yes,
+S3C8,3/18/2025,5/12/2025,R,Good,20,27,34,,,42,58.5,no,,,,,,yes,
+S3C6,3/18/2025,5/12/2025,R,Good,20,27,55,0.75,9.03,44,54,no,,,,,,yes,
+S3D9,3/18/2025,5/4/2025,R,Good,24,24,35,,,17,90,no,,,,,,yes,
+S3D7,3/18/2025,5/12/2025,R,Good,14,23,23,,,27,54,no,,,,,,yes,
+S3D5,3/18/2025,5/12/2025,R,Good,22,27,32,,,34,68.25,no,,,,,,yes,
+S3F10,3/18/2025,5/4/2025,R,Good,12,22,30,,,31,63.375,no,,,,,,no,
+S3F8,3/18/2025,5/12/2025,R,Good,17,27,26,,,42,58.5,no,,,,,,no,Burning was observed on the upper leaflets of the plant due to their proximity to the artificial light source and its heat.
+S3F6,3/18/2025,5/12/2025,R,Good,27,34,46,,,65,54,no,,,,,,yes,Burning was observed on the upper leaflets of the plant due to their proximity to the artificial light source and its heat.
+S4A10,3/18/2025,5/4/2025,R,Good,47,31,68,2.25,7.99,31,114.75,no,,,,,,yes,Burning was observed on the upper leaflets of the plant due to their proximity to the artificial light source and its heat.
+S4A8,3/18/2025,5/12/2025,R,Good,30,43,119,,,82,135,no,,,,,,yes,Burning was observed on the upper leaflets of the plant due to their proximity to the artificial light source and its heat.
+S4A6,3/18/2025,5/12/2025,R,Good,37,42,125,,,71,135,no,,,,,,yes,Burning was observed on the upper leaflets of the plant due to their proximity to the artificial light source and its heat.
+S4B9,3/18/2025,5/4/2025,R,Good,6,6,4,,,22,13.5,no,,,,,,no,very small plant 
+S4B7,3/18/2025,5/12/2025,IR,Good,10,6,0.5,,,4,6,no,,,,,,no,very small plant 
+S4B5,3/18/2025,5/12/2025,IR,Good,14,9,3.2,,,8,22.5,no,,,,,,no,very small plant 
+S4C10,3/18/2025,5/4/2025,R,Good,40,31,134,,,59,142.5,no,,,,,,yes,Burning was observed on the upper leaflets of the plant due to their proximity to the artificial light source and its heat.
+S4C8,3/18/2025,5/12/2025,R,Good,33,38,101,,,85,102,no,,,,,,no,
+S4C6,3/18/2025,5/12/2025,R,Good,40,37,151,,,102,145.8,no,,,,,,no,
+S4D9,3/18/2025,5/4/2025,R,Good,30,35,127,,,85,132,no,,,,,,yes,Burning was observed on the upper leaflets of the plant due to their proximity to the artificial light source and its heat.
+S4D7,3/18/2025,5/12/2025,IR,Good,38,42,94,0.89,8.16,75,127.5,no,,,,,,no,
+S4D5,3/18/2025,5/12/2025,R,Good,20,28,21,,,22,73.5,no,,,,,,no,
+S4F10,3/18/2025,5/4/2025,R,Good,27,34,35,,,20,106.875,no,,,,,,yes,Burning was observed on the upper leaflets of the plant due to their proximity to the artificial light source and its heat.
+S4F8,3/18/2025,5/12/2025,R,Good,10,4,0.5,,,5,4.5,no,,,,,,no,
+S4F6,3/18/2025,5/12/2025,R,Good,34,44,131,,,78,173.25,no,,,,,,no,
